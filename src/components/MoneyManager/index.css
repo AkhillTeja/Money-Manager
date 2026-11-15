@@ -1,0 +1,32 @@
+/* Write your CSS here */
+* {
+  font-family: 'Roboto';
+}
+.bg-container {
+  background-color: #ffffff;
+  background-size: cover;
+  height: 100vh;
+  padding: 30px;
+}
+.top-container {
+}
+.profile-card {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  background-size: cover;
+  height: auto;
+  padding: 15px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.name-heading {
+  color: #1e293b;
+  font-size: 30px;
+}
+.welcome-para {
+  color: #334155;
+  font-size: 20px;
+}
+.manager-para {
+  color: #0b69ff;
+  font-size: 20px;
+}
