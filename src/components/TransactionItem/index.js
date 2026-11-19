@@ -6,7 +6,7 @@ const TransactionItem = props => {
   const {id, title, amount, type} = transactionDetails
 
   const onDeleteButton = () => {
-      deleteTransaction(id)
+    deleteTransaction(id)
   }
 
   return (
